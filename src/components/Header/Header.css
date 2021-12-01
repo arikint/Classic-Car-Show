@@ -1,0 +1,10 @@
+.header{
+    background-color: rgb(27, 84, 99);
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    color: rgb(104, 166, 248);
+}
+.logo{
+    height: 250px;
+}

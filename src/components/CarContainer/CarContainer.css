@@ -1,0 +1,17 @@
+.carContainer{
+    padding-top: 20px;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.car-container{
+
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr;
+    margin-right: 5px;
+    margin-left: 50px;
+}
+.cart-container{
+
+    margin-right: 50px;
+    margin-left: 5px;
+}
